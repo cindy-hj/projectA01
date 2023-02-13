@@ -25,6 +25,4 @@ public class projectA0115 {
 		System.out.println(x);
 		System.out.println(gx);
 	}
-	
-	
 }
